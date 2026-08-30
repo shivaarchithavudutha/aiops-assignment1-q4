@@ -9,7 +9,7 @@ This repository demonstrates a fully reproducible, end-to-end Machine Learning p
 Clone the repository and set up the Conda environment:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shivaarchithavudutha/aiops-assignment1-q4
 cd aiops-assignment1-q4
 conda env create -f environment.yml
 conda activate aiops-q4-env
