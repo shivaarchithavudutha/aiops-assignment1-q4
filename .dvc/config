@@ -1,4 +1,7 @@
 [core]
-    remote = localstore
+    remote = b2remote
 ['remote "localstore"']
     url = C:\tmp\dvc-storage
+['remote "b2remote"']
+    url = s3://aiops-partner-repo-shiva
+    endpointurl = https://s3.us-east-005.backblazeb2.com
